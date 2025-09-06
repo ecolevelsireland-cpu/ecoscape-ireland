@@ -29,7 +29,7 @@ The **Ecoscape Ireland** repository contains:
    - Download [QGIS](https://qgis.org) (version 3.x recommended).
    - Load our `.qgs` project files to explore layers and visualizations.
 3. **Contribute or Collaborate**:
-   - Reach out via [email](mailto:contact@ecolevelsireland.com) for collaboration opportunities with NGOs or councils.
+   - Reach out via [email](mailto:ecolevelsireland@gmail.com) for collaboration opportunities with NGOs or councils.
    - Submit issues or pull requests for dataset improvements or new features.
 
 ## Data Sources
@@ -43,6 +43,6 @@ The **Ecoscape Ireland** repository contains:
 - Partner with Irish NGOs and councils to deliver high-impact environmental reports.
 
 ## Contact
-For inquiries, custom projects, or to discuss how Eco Levels Ireland can support your organization, email us at [contact@ecolevelsireland.com](mailto:contact@ecolevelsireland.com).
+For inquiries, custom projects, or to discuss how Eco Levels Ireland can support your organization, email us at ecolevelsireland@gmail.com.
 
 Follow our progress on GitHub or connect with us for updates on tree-focused environmental initiatives in Ireland!
