@@ -16,7 +16,9 @@ The **Ecoscape Ireland** repository contains:
 - **Reports**: Summaries and visualizations tailored for NGOs and local councils to support environmental planning and policy.
 
 ## Current Projects
-- **Tree Coverage Mapping**: Creating detailed maps of tree distributions in Ireland, identifying areas for reforestation or urban greening.
+- **Dublin Tree Cover Mapping (2018)**:
+  [![Dublin Tree Cover Map](dublintrees1.0.png)](dublintrees1.0.png)
+  Tree cover map of Dublin using CORINE Land Cover 2018, highlighting forest classes (broad-leaved, coniferous, mixed, transitional woodland) by Local Electoral Areas for environmental planning.
 - **Urban Green Space Analysis**: Assessing green spaces in urban areas like Dublin to support biodiversity and community well-being.
 - **Custom Solutions**: Developing tailored datasets and visualizations for NGOs and local councils to aid in grant applications, policy proposals, or community projects.
 
@@ -46,3 +48,4 @@ The **Ecoscape Ireland** repository contains:
 For inquiries, custom projects, or to discuss how Eco Levels Ireland can support your organization, email us at ecolevelsireland@gmail.com.
 
 Follow our progress on GitHub or connect with us for updates on tree-focused environmental initiatives in Ireland!
+
