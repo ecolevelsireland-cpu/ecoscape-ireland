@@ -50,6 +50,15 @@ The **Ecoscape Ireland** repository contains:
 - Partner with Irish NGOs and councils to deliver high-impact environmental reports.
 
 ## Contact
+
+## Ready for Your County?
+Want this map for **Cork, Galway, or all Ireland**?  
+- €200 per county  
+- Tree cover % per town included  
+- Interactive web version available  
+
+Email: ecolevelsireland@gmail.com
+
 For inquiries, custom projects, or to discuss how Eco Levels Ireland can support your organization, email us at ecolevelsireland@gmail.com.
 
 Follow our progress on GitHub or connect with us for updates on tree-focused environmental initiatives in Ireland!
