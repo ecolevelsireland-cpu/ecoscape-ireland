@@ -29,18 +29,6 @@ The **Ecoscape Ireland** repository contains:
   [![Dublin Tree Cover Map](dublintrees1.0.png)](dublintrees1.0.png)
   Tree cover map of Dublin using CORINE Land Cover 2018, highlighting forest classes by Local Electoral Areas.
   
-## Getting Started
-1. **Explore the Repository**:
-   - Check the `/qgis-projects` folder for sample QGIS project files.
-   - View `/datasets` for raw and processed data from data.gov.ie and other sources.
-   - See `/scripts` for data processing workflows.
-2. **Set Up QGIS**:
-   - Download [QGIS](https://qgis.org) (version 3.x recommended).
-   - Load our `.qgs` project files to explore layers and visualizations.
-3. **Contribute or Collaborate**:
-   - Reach out via [email](mailto:ecolevelsireland@gmail.com) for collaboration opportunities with NGOs or councils.
-   - Submit issues or pull requests for dataset improvements or new features.
-
 ## Data Sources
 - **data.gov.ie**: Open datasets on land use, environmental features, and more.
 - **Tailte Éireann**: Property and land data for Ireland.
