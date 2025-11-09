@@ -19,15 +19,16 @@ The **Ecoscape Ireland** repository contains:
 
 # Eco Levels Ireland: Ecoscape Ireland Repository
 
-**Wicklow Urban Populations & Forest Types (2022/2018)**  
-[![Wicklow Focus Map](Wicklow Urban Populations & Forest Types (2022_2018).pngWicklow Urban Populations & Forest Types (2022_2018).png)](Wicklow Urban Populations & Forest Types (2022_2018).pngWicklow Urban Populations & Forest Types (2022_2018).png)  
-33 towns, 4 forest classes, white halo labels — **council-ready**.
+## Current Projects
 
-Dublin Tree Cover Map (2018)  
-[![Dublin Tree Cover Map](dublintrees1.0.png)](dublintrees1.0.png)
-- **Urban Green Space Analysis**: Assessing green spaces in urban areas like Dublin to support biodiversity and community well-being.
-- **Custom Solutions**: Developing tailored datasets and visualizations for NGOs and local councils to aid in grant applications, policy proposals, or community projects.
+- **Wicklow Urban Populations & Forest Types (2022/2018)**:
+  [![Wicklow Focus Map](Wicklow%20Urban%20Populations%20&%20Forest%20Types%20(2022_2018).png)](Wicklow%20Urban%20Populations%20&%20Forest%20Types%20(2022_2018).png)
+  33 Wicklow towns with 2022 Census populations (e.g., Greystones: 22,009), Wicklow county highlighted, and CORINE 2018 forests in 4 green classes (Broad-Leaved, Coniferous, Mixed, Transitional). White halo labels for clarity. Council-ready!
 
+- **Dublin Tree Cover Mapping (2018)**:
+  [![Dublin Tree Cover Map](dublintrees1.0.png)](dublintrees1.0.png)
+  Tree cover map of Dublin using CORINE Land Cover 2018, highlighting forest classes by Local Electoral Areas.
+  
 ## Getting Started
 1. **Explore the Repository**:
    - Check the `/qgis-projects` folder for sample QGIS project files.
