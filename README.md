@@ -18,7 +18,7 @@ The **Ecoscape Ireland** repository contains:
 ## Current Projects
 
 - **Wicklow Urban Populations & Forest Types (2022/2018)**:
-  [![Wicklow Focus Map](Wicklow_Focus_Map.png)](Wicklow_Focus_Map.png)
+  [![Wicklow Focus Map](Wicklow Urban Populations & Forest Types (2022_2018).png)
   33 Wicklow towns with 2022 Census populations (e.g., Greystones: 22,009), Wicklow county highlighted, and CORINE 2018 forests in 4 green classes. White halo labels for clarity. Ready for planning or advocacy.
 
 - **Dublin Tree Cover Mapping (2018)**:
