@@ -51,13 +51,13 @@ The **Ecoscape Ireland** repository contains:
 - Develop automated QGIS workflows for scalable map production.
 - Partner with Irish NGOs and councils to deliver high-impact environmental reports.
 
-## Contact
-
 ## Ready for Your County?
 Want this map for **Cork, Galway, or all Ireland**?  
 - €200 per county  
 - Tree cover % per town included  
 - Interactive web version available  
+
+## Contact
 
 Email: ecolevelsireland@gmail.com
 
